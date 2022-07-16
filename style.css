@@ -1,0 +1,24 @@
+body {
+    margin: 100px auto;
+  }
+
+.card{
+    border-radius: 10px !important;
+    background-color: rgb(48, 82, 86) !important;
+    width: 500px;
+    margin: auto;
+    margin-top: 10%;
+}
+p{
+    padding-top: 10%;
+    font-family: fantasy;
+    color: rgb(182, 170, 202);
+}
+.btn{
+    background-color: black !important;
+    color: aliceblue !important;
+}
+.btn:hover{
+    background-color:  aliceblue;
+    color: rgb(197, 186, 186)!important;
+}
